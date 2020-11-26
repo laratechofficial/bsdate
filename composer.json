@@ -1,5 +1,5 @@
 {
-    "name": "laranews/bsdate",
+    "name": "laratechoffcial/bsdate",
     "description": "A laravel package which convert AD into BS.",
     "keywords": ["date", "nepali date", "bikram sambat"],
     "license": "MIT",
