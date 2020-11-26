@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Laranews\Bsdate\Exception;
+namespace Laratech\Bsdate\Exception;
 
 use Exception;
 

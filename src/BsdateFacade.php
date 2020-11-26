@@ -1,6 +1,6 @@
 <?php
 
-namespace Laranews\Bsdate;
+namespace Laratech\Bsdate;
 
 use Illuminate\Support\Facades\Facade;
 

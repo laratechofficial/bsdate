@@ -1,6 +1,6 @@
 <?php
 
-namespace Laranews\Bsdate;
+namespace Laratech\Bsdate;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -24,7 +24,7 @@ class BsdateServiceProvider extends ServiceProvider
     public function register()
     {
         $this->app->singleton('bsdate', function ($app) {
-            return new \Laranews\Bsdate\Bsdate($app->make('Laranews\Bsdate\Bsdate'));
+            return new \Laratech\Bsdate\Bsdate($app->make('Laratech\Bsdate\Bsdate'));
         });
     }
 }

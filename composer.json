@@ -5,7 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Padam shankhadev",
+            "name": "Padam Shankhadev",
             "email": "shankhadev123@gmail.com"
         }
     ],
@@ -14,13 +14,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Laranews\\Bsdate\\": "src"
+            "Laratech\\Bsdate\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Laranews\\Bsdate\\BsdateServiceProvider"
+                "Laratech\\Bsdate\\BsdateServiceProvider"
             ]
         }
     }

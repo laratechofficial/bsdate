@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Laranews\Bsdate;
+namespace Laratech\Bsdate;
 
 interface BsdateInterface
 {

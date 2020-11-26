@@ -1,8 +1,8 @@
 <?php
 
-namespace Laranews\Bsdate\Traits;
+namespace Laratech\Bsdate\Traits;
 
-use Laranews\Bsdate\Bsdate;
+use Laratech\Bsdate\Bsdate;
 
 trait BsTrait
 {
