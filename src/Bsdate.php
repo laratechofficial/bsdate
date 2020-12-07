@@ -116,25 +116,25 @@ final class Bsdate implements BsdateInterface
     {
         switch ($day) {
             case 1:
-                $day = 'आइतवार';
+                $day = 'आइतबार';
                 break;
             case 2:
-                $day = 'सोमवार';
+                $day = 'सोमबार';
                 break;
             case 3:
-                $day = 'मंगलवार';
+                $day = 'मंगलबार';
                 break;
             case 4:
-                $day = 'बुधवार';
+                $day = 'बुधबार';
                 break;
             case 5:
-                $day = 'बिहीवार';
+                $day = 'बिहीबार';
                 break;
             case 6:
-                $day = 'शुक्रवार';
+                $day = 'शुक्रबार';
                 break;
             case 7:
-                $day = 'शनिवार';
+                $day = 'शनिबार';
                 break;
         }
 
